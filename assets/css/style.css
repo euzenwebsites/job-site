@@ -5256,3 +5256,7 @@ blockquote::after, .blockquote::after {
 .copyright-area ul li:first-child {
 	margin-left: 0;
 }
+
+.newLogo{
+	height: 50px;
+}
